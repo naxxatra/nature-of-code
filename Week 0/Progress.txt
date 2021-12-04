@@ -1,0 +1,7 @@
+This week we have 
+
+1. Built a boilerplate template which can be used for any pygame project
+
+2. Got a single particle moving around on the screen
+
+3. Got the Particle bouncing against the walls.
